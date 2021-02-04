@@ -1,15 +1,3 @@
 # Sampl
 My First
 My Second
-My Third
-My Fourth
-My Fifth
-My Fifth
-My Sixth
-My Sixth
-My Seventh
-My Eighth
-My Ninth
-My Eleventh
-My Tenth
-My Eleventh
